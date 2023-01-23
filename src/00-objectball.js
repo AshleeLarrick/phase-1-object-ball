@@ -200,5 +200,3 @@ function bigShoeRebounds() {
     }
     return maxRebounds
 }
-
-console.log(bigShoeRebounds())
